@@ -11,7 +11,7 @@
 ## Tecnologies
 
 - [Nodejs](https://nodejs.org/)
-- [TypeScript(https://www.typescriptlang.org/)]
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Getting started
 
