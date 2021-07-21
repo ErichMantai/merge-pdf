@@ -6,7 +6,6 @@
 
 ## Demonstration
 
-<img src="src/img/1.svg" alt="Technologies used">
 
 
 ## Tecnologies
