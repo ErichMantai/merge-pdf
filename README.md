@@ -6,8 +6,8 @@
 
 ## Demonstration
 
-
-
+  <img src="src/img/gif.gif" alt="Technologies used">
+  
 ## Tecnologies
 
 - [Nodejs](https://nodejs.org/)
